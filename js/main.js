@@ -1,35 +1,3 @@
-# To-Do app
-
-This is a simple to-do list app created with javascript
-
-## Code Description
-
-Used :
-Javascript
-Html 5
-Css3
-Bootstrap 5
-Vim Editor
-
-Copy code to the files
-
-```bash
-vim index.html
-```
-```bash
-vim about.html
-```
-```bash
-vim style.css
-```
-```bash
-vim main.js
-```
-
-## Code snippet
-
-```javascript
-
 let addToDoButton = document.getElementById('addToDo');
 let toDoContainer = document.getElementById('toDoContainer');
 let inputField = document.getElementById('inputField');
@@ -47,12 +15,3 @@ addToDoButton.addEventListener('click', function(){
         toDoContainer.removeChild(paragraph);
     })
 })
-```
-
-## Contributing
-Pull requests are welcome.
-
-Thank you
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
