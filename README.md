@@ -2,6 +2,10 @@
 
 This is a simple to-do list app created with javascript
 
+# Live link
+
+https://aliyo254.github.io/TodoApp/
+
 ## Code Description
 
 Used :
