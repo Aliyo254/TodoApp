@@ -4,7 +4,7 @@ This is a simple to-do list app created with javascript
 
 # Live link
 
-https://aliyo254.github.io/TodoApp/
+https://aliyo254.github.io/TodoApp/html/index.html
 
 ## Code Description
 
